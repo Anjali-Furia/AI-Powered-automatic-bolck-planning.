@@ -1,0 +1,3851 @@
+[
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-04",
+    "time_windows": [],
+    "total_block_hours_available": 0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-04",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-04",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-04",
+    "time_windows": [],
+    "total_block_hours_available": 0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-04",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-04",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-04",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-04",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-05",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-05",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-05",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-05",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-05",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-05",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-05",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-05",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-06",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-06",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-06",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-06",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-06",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-06",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-06",
+    "time_windows": [],
+    "total_block_hours_available": 0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-06",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-07",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-07",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-07",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-07",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-07",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-07",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-07",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-07",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-08",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-08",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-08",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-08",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-08",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-08",
+    "time_windows": [
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 3.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-08",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-08",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-09",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-09",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-09",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-09",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-09",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-09",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-09",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-09",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-10",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-10",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-10",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-10",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-10",
+    "time_windows": [
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 3.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-10",
+    "time_windows": [
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 3.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-10",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-10",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-11",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-11",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-11",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-11",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-11",
+    "time_windows": [
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 3.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-11",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-11",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-11",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-12",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-12",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-12",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-12",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-12",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-12",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-12",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-12",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-13",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-13",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-13",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-13",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-13",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-13",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-13",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-13",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-14",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-14",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-14",
+    "time_windows": [],
+    "total_block_hours_available": 0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-14",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-14",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-14",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-14",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-14",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-15",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-15",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-15",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-15",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-15",
+    "time_windows": [
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 3.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-15",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-15",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-15",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-16",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-16",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-16",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-16",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-16",
+    "time_windows": [],
+    "total_block_hours_available": 0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-16",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-16",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-16",
+    "time_windows": [],
+    "total_block_hours_available": 0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-17",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-17",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-17",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-17",
+    "time_windows": [],
+    "total_block_hours_available": 0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-17",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-17",
+    "time_windows": [],
+    "total_block_hours_available": 0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-17",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-17",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-18",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-18",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-18",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-18",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-18",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-18",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-18",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-18",
+    "time_windows": [],
+    "total_block_hours_available": 0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-19",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-19",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-19",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-19",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-19",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-19",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-19",
+    "time_windows": [],
+    "total_block_hours_available": 0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-19",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-20",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-20",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-20",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-20",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-20",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-20",
+    "time_windows": [],
+    "total_block_hours_available": 0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-20",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-20",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-21",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-21",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-21",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-21",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-21",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-21",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-21",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-21",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-22",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-22",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-22",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-22",
+    "time_windows": [],
+    "total_block_hours_available": 0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-22",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-22",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-22",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-22",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-23",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-23",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-23",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-23",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-23",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-23",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-23",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-23",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-24",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-24",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-24",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-24",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-24",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-24",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-24",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-24",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-25",
+    "time_windows": [],
+    "total_block_hours_available": 0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-25",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-25",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-25",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-25",
+    "time_windows": [],
+    "total_block_hours_available": 0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-25",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-25",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-25",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-26",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-26",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-26",
+    "time_windows": [
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 3.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-26",
+    "time_windows": [],
+    "total_block_hours_available": 0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-26",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-26",
+    "time_windows": [
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 3.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-26",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-26",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-27",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-27",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-27",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-27",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-27",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-27",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-27",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-27",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-28",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-28",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-28",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-28",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-28",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-28",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-28",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-28",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-29",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-29",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-29",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-29",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-29",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-29",
+    "time_windows": [
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 3.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-29",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-29",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-09-30",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-09-30",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-09-30",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-09-30",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-09-30",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-09-30",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-09-30",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-09-30",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C1",
+    "corridor_name": "Delhi-Howrah Rajdhani",
+    "date": "2026-10-01",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 10
+  },
+  {
+    "corridor_id": "C2",
+    "corridor_name": "Mumbai-Pune Deccan",
+    "date": "2026-10-01",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 8
+  },
+  {
+    "corridor_id": "C3",
+    "corridor_name": "Chennai-Bangalore Main",
+    "date": "2026-10-01",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C4",
+    "corridor_name": "Howrah-Mumbai via Nagpur",
+    "date": "2026-10-01",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 7
+  },
+  {
+    "corridor_id": "C5",
+    "corridor_name": "Delhi-Mumbai Western",
+    "date": "2026-10-01",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 9
+  },
+  {
+    "corridor_id": "C6",
+    "corridor_name": "Secunderabad-Vijayawada",
+    "date": "2026-10-01",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 6
+  },
+  {
+    "corridor_id": "C7",
+    "corridor_name": "Lucknow-Varanasi",
+    "date": "2026-10-01",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 7.0,
+    "traffic_density_score": 5
+  },
+  {
+    "corridor_id": "C8",
+    "corridor_name": "Jaipur-Ahmedabad",
+    "date": "2026-10-01",
+    "time_windows": [
+      {
+        "start": "01:00",
+        "end": "05:00",
+        "window_type": "available",
+        "train_count": 0
+      }
+    ],
+    "total_block_hours_available": 4.0,
+    "traffic_density_score": 6
+  }
+]
